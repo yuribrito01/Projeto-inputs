@@ -1,0 +1,10 @@
+input {
+    margin-bottom: 10px;
+}
+#botao{
+    display: block;
+    color: blueviolet;
+}
+label{
+    display: block;
+}
